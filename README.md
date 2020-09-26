@@ -1,1 +1,1 @@
-# Wild_Child_Collective_Website not yet finsihed adding JavaScript in the future. 
+# Wild_Child_Collective_Website -- not yet finished adding JavaScript in the future. 
